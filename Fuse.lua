@@ -1,7 +1,7 @@
 _G.autoFuse = true
 
 local PET_TO_FUSE = "Alien Axolotl" -- name of the pet you want to fuse
-local FUSE_AMOUNT = 3 -- amount to put into fuse (3 is the minimum)
+local FUSE_AMOUNT = 100 -- amount to put into fuse (3 is the minimum)
 local IS_SHINY = false
 local PET_TYPE = 2 -- change to 2 for Rainbow, 1 for Golden, or 0 for Normal
 -- MAKE PET TYPES TO FUSE
